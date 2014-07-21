@@ -1,0 +1,17 @@
+
+.c-sidebar {
+	background-color: rgb(100,100,100);
+	padding: 10px;
+	margin-top: -20px;
+}
+
+.c-state-history {
+	font-size: smaller;
+}
+
+.c-main {
+	max-width: 1200px;
+}
+.c-answers {
+	font-size: 19pt;
+}
