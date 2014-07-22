@@ -1,17 +1,40 @@
+body {
+	background-color: white;
+}
 
 .c-sidebar {
-	background-color: rgb(100,100,100);
-	padding: 10px;
+	background-color: #A39494;
+	padding: 12px;
 	margin-top: -20px;
 }
 
-.c-state-history {
-	font-size: smaller;
+.c-state-history, .c-comment-history {
+	font-size: 8pt;
+}
+
+.c-question-select{
+	font-size: 14pt;
+}
+
+.c-survey {
+
 }
 
 .c-main {
-	max-width: 1200px;
+	max-width: 1268px;
 }
 .c-answers {
-	font-size: 19pt;
+	font-size: 17pt;
 }
+
+#history {
+	overflow-y: scroll;
+}
+
+
+.questionaire {
+
+	padding: 5px;
+
+}
+
